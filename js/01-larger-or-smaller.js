@@ -12,4 +12,4 @@ if ( one > two) {
     document.write("Number " + two + " is greater");
 } else if ( one === two) {
     document.write( one + " is equal to " + two);
-}
+} 
